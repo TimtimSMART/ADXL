@@ -1,6 +1,6 @@
 #include <Adafruit_CircuitPlayground.h>
 #include <Adafruit_Circuit_Playground.h>
-///timtim
+///timtim KWANGkwang
 /*****************************************************************************/
 //	Function:    Get the accelemeter of X/Y/Z axis and print out on the 
 //					serial monitor.
